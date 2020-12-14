@@ -1,0 +1,36 @@
+{
+   "books": [
+
+      {
+         "name":"How-to-get-a-good-grade-in-DOS-in-20-minutes-a-day",
+         "topic": "distributed systems",
+         "cost": "20",
+         "stock": "7",
+		 "number": "1"
+      },
+
+      {
+         "name":"RPCs for Dummies",
+         "topic": "distributed systems",
+         "cost": "25",
+         "stock": "4",
+	 "number": "2"
+      },
+	  {
+         "name":"Xen and the Art of Surviving Graduate School",
+         "topic": "graduate school",
+         "cost": "10",
+         "stock": "8",
+	 "number": "3"
+      },
+	  {
+         "name":"Cooking for the Impatient Graduate Student",
+         "topic": "graduate school",
+         "cost": "40",
+         "stock": "3",
+	  "number": "4"
+      }
+   ]
+
+  
+}
